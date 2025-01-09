@@ -3,7 +3,6 @@ In this project, I have worked on Spring Boot microservices along with MongoDB A
 
 # Microservices AWS Deployment : (can be verified using swagger)
 
-
 1- Company Service : 
 
 http://companyservice-env.eba-2jpmpvgp.ap-south-1.elasticbeanstalk.com/swagger-ui.html
