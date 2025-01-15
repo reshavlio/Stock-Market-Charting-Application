@@ -18,6 +18,7 @@ http://companyservice-env.eba-2jpmpvgp.ap-south-1.elasticbeanstalk.com/swagger-u
 
 
 
+
 2- Sector Service :
 
 http://sectorservice-env.eba-uxpehump.ap-south-1.elasticbeanstalk.com/swagger-ui.html
